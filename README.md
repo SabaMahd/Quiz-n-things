@@ -17,3 +17,4 @@ THEN the game is over
 WHEN the game is over 
 THEN I can save my initials and score✔
 
+![quiz screenshot](https://user-images.githubusercontent.com/93783055/147611292-bcc22f31-b796-4a53-b518-efcf7410985f.PNG)
